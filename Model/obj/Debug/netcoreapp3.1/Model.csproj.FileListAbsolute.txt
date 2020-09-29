@@ -1,0 +1,9 @@
+E:\Angular\api-banmypham\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+E:\Angular\api-banmypham\Model\bin\Debug\netcoreapp3.1\Model.dll
+E:\Angular\api-banmypham\Model\bin\Debug\netcoreapp3.1\Model.pdb
+E:\Angular\api-banmypham\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+E:\Angular\api-banmypham\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+E:\Angular\api-banmypham\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+E:\Angular\api-banmypham\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+E:\Angular\api-banmypham\Model\obj\Debug\netcoreapp3.1\Model.dll
+E:\Angular\api-banmypham\Model\obj\Debug\netcoreapp3.1\Model.pdb
